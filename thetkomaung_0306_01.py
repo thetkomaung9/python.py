@@ -2,6 +2,6 @@
 #학과:Computer Science
 #이름:딱코먼
 print("Hello", end='')
-print("Sunmoon University")
-print('Computer Science')
+print("Sunmoon University", end='')
+print('Computer Science', end='')
 print('thetkomaung')
